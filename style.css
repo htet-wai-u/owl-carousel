@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    list-style-type: none;
+    padding: 20px;
+    
+}
+.head{
+    background-color: seagreen;
+}
+a{
+    text-decoration: none;
+    padding: 20px 30px;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-forder{
+    height: 200px;
+    display: flex;
+}
+.card{
+    padding:20px 35px;
+}
+.card img{
+    width: 200px;
+}
+ul li{
+    list-style-type: none;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
